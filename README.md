@@ -1,4 +1,3 @@
-```markdown
 # Water Pump Maintenance Prediction
 
 ![Maintenance](https://img.shields.io/badge/Maintenance-Prediction-blue)
@@ -63,4 +62,4 @@ Contributions are welcome! For major changes, please open an issue first to disc
 ## Acknowledgments
 
 - Mention any contributors or resources used.
-```
+
